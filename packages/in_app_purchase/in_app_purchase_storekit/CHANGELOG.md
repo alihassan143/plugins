@@ -1,3 +1,7 @@
+## 0.3.2+3
+
+* Adds MacOS as a supported platform.
+
 ## 0.3.2+2
 
 * Updates imports for `prefer_relative_imports`.
